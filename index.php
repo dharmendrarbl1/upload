@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Frozen Yogurt dharmendra Shop</title>
+	<title>Frozen Yogurt ashok Shop</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 	<link rel="stylesheet" type="text/css" href="css/mobile.css">
 	<script src="js/mobile.js" type="text/javascript"></script>
@@ -16,7 +16,7 @@
 				<a href="index.html" class="logo"><img src="images/logo.png" alt=""></a>
 				<ul id="navigation">
 					<li class="selected">
-						<a href="index.html">Home</a>
+						<a href="index.html">Home21</a>
 					</li>
 					<li class="menu">
 						<a href="about.html">About</a>
